@@ -14,6 +14,7 @@ Netlify(frontend)
 
 
 zip eka extract krla vs eken open krnna. auto save
+create git repostory
 mongodb- create cluster hdla password copypaste, backend eke .env file hdla   
 MONGO_URI=mongodb+srv://hiruabeywickrama22_db_user:NJu8hyjNWfLLIKxT@cluster0.tel8o2k.mongodb.net/?appName=Cluster0
 PORT=5000
@@ -57,6 +58,6 @@ Modify code- backend- models- Item.js -
       <label>Description</label>
       <textarea name="description" value={formData.description} onChange={handleChange} required />
 
-Commit to github
+
 
                         
