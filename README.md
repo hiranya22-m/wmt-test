@@ -68,28 +68,28 @@ settings- add Root Directory- /backend  - Deploy  then Generate Domian - copy ba
 Backend deployed using Railway cloud service.
 Both platforms used for hosting and running the full-stack application.
 
-*Item Name: Apple
-Category: Fruits
-Price: 100
-Description: Fresh red apple
+*Item Name: Apple /
+Category: Fruits /
+Price: 100 /
+Description: Fresh red apple /
 Image URL: https://example.com/apple.jpg*
 
-*Item Name: Chocolate Cake
-Category: Dessert
-Price: 1500
-Description: Soft and rich chocolate cake with creamy frosting
+*Item Name: Chocolate Cake /
+Category: Dessert /
+Price: 1500 /
+Description: Soft and rich chocolate cake with creamy frosting /
 Image URL: https://example.com/chocolate-cake.jpg*
 
-*Item Name: T-Shirt
-Category: Clothing
-Price: 1200
-Description: Comfortable cotton t-shirt
+*Item Name: T-Shirt /
+Category: Clothing /
+Price: 1200 /
+Description: Comfortable cotton t-shirt /
 Image URL: https://example.com/tshirt.jpg*
 
-*Item Name: Jeans
-Category: Clothing
-Price: 3500
-Description: Blue denim jeans
+*Item Name: Jeans /
+Category: Clothing /
+Price: 3500 /
+Description: Blue denim jeans /
 Image URL: https://example.com/jeans.jpg*
 
                         
