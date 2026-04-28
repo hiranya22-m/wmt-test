@@ -1,10 +1,10 @@
 # wmt-test
-personal email-nethmihiranya22@gmail.com      password- OA647316
-GitHub email address-nethmihiranya22@gmail.com   password- nha@200305
-MongoDB- hiruabeywickrama22@gmail.com     password- nha@200305
-railway(backend)- Sign in- Github
-vercel(frontend)- Sign in- nethmihiranya22@gmail.com
-Netlify(frontend) - Sign in
+personal email-nethmihiranya22@gmail.com      password- OA647316 /
+GitHub email address-nethmihiranya22@gmail.com   password- nha@200305 /
+MongoDB- hiruabeywickrama22@gmail.com     password- nha@200305 /
+railway(backend)- Sign in- Github /
+vercel(frontend)- Sign in- nethmihiranya22@gmail.com /
+Netlify(frontend) - Sign in- nethmihiranya22@gmail.com
 
 zip eka extract krla vs eken open krnna. auto save
 create git repostory - repo name, add README, Add .gitignore - Node
@@ -60,5 +60,6 @@ settings- add Root Directory- /backend  - Deploy  then Generate Domian - copy ba
 
 Vercel - Add New- Project- Continue with GitHub- select what repostory import- Root Directory- frontend   VITE_API_URL = https://wmt-item-add-production.up.railway.app/api
 
+Netlify- Add new project- GitHub- select github repostory- Project name-, Base Directory- frontend, Build command- npm run build, public directory- frontend/dist, Add Environment variables- Key- VITE_API_URL, Value- https://wmt-item-add-production.up.railway.app/api  , Deploy, Click Deploys- Deploy project- click open production deploy
 
                         
