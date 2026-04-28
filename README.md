@@ -92,4 +92,4 @@ Price: 3500 /
 Description: Blue denim jeans /
 Image URL: https://example.com/jeans.jpg*
 
-                        
+Warranty Period: 27/04/2026 - 27/04/2026
