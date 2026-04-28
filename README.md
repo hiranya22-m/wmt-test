@@ -93,3 +93,5 @@ Description: Blue denim jeans /
 Image URL: https://example.com/jeans.jpg*
 
 Warranty Period: 27/04/2026 - 27/04/2026
+
+Frontend Live URL:-  https://69f04916f60b7060526a4725--item-manager-labtest1.netlify.app/ 
