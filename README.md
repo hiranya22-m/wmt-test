@@ -62,4 +62,9 @@ Vercel - Add New- Project- Continue with GitHub- select what repostory import- R
 
 Netlify- Add new project- GitHub- select github repostory- Project name-, Base Directory- frontend, Build command- npm run build, public directory- frontend/dist, Add Environment variables- Key- VITE_API_URL, Value- https://wmt-item-add-production.up.railway.app/api  , Deploy, Click Deploys- Deploy project- click open production deploy
 
+
+Frontend deployed on Vercel platform.
+Backend deployed using Railway cloud service.
+Both platforms used for hosting and running the full-stack application.
+
                         
