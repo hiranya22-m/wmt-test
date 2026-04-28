@@ -1,12 +1,12 @@
 # wmt-test
-personal email-nethmihiranya22@gmail.com      password- OA647316 /
-GitHub email address-nethmihiranya22@gmail.com   password- nha@200305 /
+*personal email-nethmihiranya22@gmail.com      password- OA647316 /
+*GitHub email address-nethmihiranya22@gmail.com   password- nha@200305 /
 MongoDB- hiruabeywickrama22@gmail.com     password- nha@200305 /
 railway(backend)- Sign in- Github /
 vercel(frontend)- Sign in- nethmihiranya22@gmail.com /
 Netlify(frontend) - Sign in- nethmihiranya22@gmail.com
  
-zip eka extract krla vs eken open krnna. auto save. extensions- github copilot chat.
+*zip eka extract krla vs eken open krnna. auto save. extensions- github copilot chat.
 create git repostory - repo name, add README, Add .gitignore - Node
 mongodb- create cluster hdla password copypaste, backend eke .env file hdla   
 MONGO_URI=mongodb+srv://hiruabeywickrama22_db_user:NJu8hyjNWfLLIKxT@cluster0.tel8o2k.mongodb.net/?appName=Cluster0
