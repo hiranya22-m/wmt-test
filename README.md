@@ -13,10 +13,10 @@ MONGO_URI=mongodb+srv://hiruabeywickrama22_db_user:NJu8hyjNWfLLIKxT@cluster0.tel
  PORT=5000
  IP Address-0.0.0.0/0       cmd eke- netstat -ano | findstr :5000    taskkill /PID <PID> /F
 
-backend- open terminal- npm install express moongose dotenv cors
-                        npm install nodemon --save-dev
+backend- open terminal- npm install express moongose dotenv cors |
+                        npm install nodemon --save-dev |
                         npm run dev
-frontend- open terminal- npm install
+frontend- open terminal- npm install |
                          npm run dev
 
 Modify code- backend- models- Item.js - 
