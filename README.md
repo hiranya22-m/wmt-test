@@ -1,9 +1,9 @@
 # wmt-test
-*personal email-nethmihiranya22@gmail.com      password- OA647316 /
-*GitHub email address-nethmihiranya22@gmail.com   password- nha@200305 /
-*MongoDB- hiruabeywickrama22@gmail.com     password- nha@200305 /
-*railway(backend)- Sign in- Github /
-*vercel(frontend)- Sign in- nethmihiranya22@gmail.com /
+*personal email-nethmihiranya22@gmail.com      password- OA647316 
+*GitHub email address-nethmihiranya22@gmail.com   password- nha@200305 
+*MongoDB- hiruabeywickrama22@gmail.com     password- nha@200305 
+*railway(backend)- Sign in- Github 
+*vercel(frontend)- Sign in- nethmihiranya22@gmail.com 
 *Netlify(frontend) - Sign in- nethmihiranya22@gmail.com
  
 *zip eka extract krla vs eken open krnna. auto save. extensions- github copilot chat.
